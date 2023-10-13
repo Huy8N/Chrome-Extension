@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 5px;
+    background-color: skyblue;
+}
+
+
+.buttons {
+    border-radius: 25px;
+    transition: 0.2s;
+}
+
+#start:hover {
+    transform: scale(1.1);
+    background-color: lightgreen;
+}
+
+#stop:hover {
+    background-color: red;
+    transform: scale(1.1);
+}
+
+label {
+    font-size: 15px;
+}
+
+#setTime {
+    height: 20px;
+    width: auto;
+    font-size: 15px;
+}
+ p {
+    font-size: 30px;
+ }
+

@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "FocusT",
+    "description": "Timer to set how long you should focus for",
+    "version": "1.0",
+    "icons": {
+        "16": "/images/icons16.png",
+        "48": "/images/icons48.png",
+        "128": "/images/icons128.png"
+    },
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": {
+            "16": "/images/icons16-2.png",
+            "48": "/images/icons48-2.png",
+            "128": "/images/icons128-2.png"
+        }
+    }
+}
